@@ -16,7 +16,7 @@
 
 
 
-## Project Discription:-
+#### Project Discription:-
 ### Cause Of Traffic:
 	By normal observation we can see that traffic problem occurs only at some
 	specific location like big highways other location donot have much traffic at
@@ -63,9 +63,6 @@
 	libraries.
 	Choosen language is Python as it supports to OOP and having inbuilt
 	libraries related to GUI.
-
-
-	More information is present in the "Traffic_Management.pdf" file.
 
 
 # Contributors :
