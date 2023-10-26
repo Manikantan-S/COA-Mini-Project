@@ -52,7 +52,7 @@
 	sink with the signals before and after it on the road.
 
 ### Aim :
-	Before implementing the idea we are checking the time for a vehicle to reach a perticular destination.
+	Before implementing the idea we are checking the time for a vehicle to reach a particular destination.
 	After implementing the idea we are checking the time for a vehicle to reach a
 	perticular destination.
 	We are the comparing the two time periods and manage the optimizations.
@@ -63,10 +63,15 @@
 	libraries.
 	Choosen language is Python as it supports to OOP and having inbuilt
 	libraries related to GUI.
+ ### OUPUT SCREENSHOTS
+![image](https://github.com/Manikantan-S/COA-Mini-Project/assets/111214511/bdcf2d87-03d4-453d-ae9c-6a01bb3ead1d)
+![image](https://github.com/Manikantan-S/COA-Mini-Project/assets/111214511/e8260d56-15b9-4372-bb76-0a5bee298077)
+![image](https://github.com/Manikantan-S/COA-Mini-Project/assets/111214511/6e981b3b-36fe-4a4e-8f4d-e94e714764c3)
+![image](https://github.com/Manikantan-S/COA-Mini-Project/assets/111214511/273d6729-91d5-4819-89e5-211d035e9fae)
 
 
 # Contributors :
-- P KARTHIK MANIKANTAN
-- RISHAV PRAKASH
-- SAM T JAMES
+	- P KARTHIK MANIKANTAN
+	- RISHAV PRAKASH
+	- SAM T JAMES
 	
