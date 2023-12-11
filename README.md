@@ -69,9 +69,3 @@
 ![image](https://github.com/Manikantan-S/COA-Mini-Project/assets/111214511/6e981b3b-36fe-4a4e-8f4d-e94e714764c3)
 ![image](https://github.com/Manikantan-S/COA-Mini-Project/assets/111214511/273d6729-91d5-4819-89e5-211d035e9fae)
 
-
-# Contributors :
-	- P KARTHIK MANIKANTAN
-	- RISHAV PRAKASH
-	- SAM T JAMES
-	
